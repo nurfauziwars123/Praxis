@@ -5,4 +5,5 @@
 2. Import File 
     1. import file dapat digunakan dengan syntax **import 'file.dart';** 
 3. Inisialisasi Variabel
-   1. inisialisasi variabel dapat di tulis **var NamaVariabel = nilai;** (type data variabel menyesuaikan dengan nilai yang ada di dalam variabel)
+   1. inisialisasi variabel dapat ditulis **var NamaVariabel = nilai;** (type data variabel menyesuaikan dengan nilai yang ada di dalam variabel)
+   1. inisialisasi variabel juga dapat ditulis dengan deklarasi type data di awal **doubel NamaVariabel = nilai;**
